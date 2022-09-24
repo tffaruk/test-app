@@ -1,5 +1,5 @@
 import chromium from "chrome-aws-lambda";
-import playwright from "playwright";
+import playwright from "playwright-core";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default async (req, res) => {

@@ -1460,17 +1460,10 @@ picomatch@^2.3.1:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-playwright-core@1.26.0:
+playwright-core@^1.26.0:
   version "1.26.0"
   resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.26.0.tgz#850228f0638d410a5cdd69800d552f60e4d295cd"
   integrity sha512-p8huU8eU4gD3VkJd3DA1nA7R3XA6rFvFL+1RYS96cSljCF2yJE9CWEHTPF4LqX8KN9MoWCrAfVKP5381X3CZqg==
-
-playwright@^1.26.0:
-  version "1.26.0"
-  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.26.0.tgz#b351990ff03a7e422bf585233eb53651fc363896"
-  integrity sha512-XxTVlvFEYHdatxUkh1KiPq9BclNtFKMi3BgQnl/aactmhN4G9AkZUXwt0ck6NDAOrDFlfibhbM7A1kZwQJKSBw==
-  dependencies:
-    playwright-core "1.26.0"
 
 postcss@8.4.14:
   version "8.4.14"
